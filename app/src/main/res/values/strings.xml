@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiph Service</string>
+    <string name="accessibility_description">Quiph Description</string>
+    <string name="accessibility_title">Quiph Title</string>
+</resources>
